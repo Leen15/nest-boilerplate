@@ -19,7 +19,7 @@ This boilerplate requires docker or a local PostgreSQL installation.  If using a
 
 There is a `docker-compose.local.yml` file for starting Docker.
 
-`docker-compose -f docker-compose.local.yml up`
+`docker compose -f docker-compose.local.yml up`
 
 
 ### Run the project
